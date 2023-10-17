@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeshafee&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeshafee" /> </p>
 
-- 🌱 I’m currently learning **Angular**
-
-- 💬 Ask me about **Java, Spring Boot, Angular, SQL**
+- 💬 Ask me about **Java, Spring Boot, Angular, MYSQL**
 
 - 📫 How to reach me **shafi.sk95@gmail.com**
 
